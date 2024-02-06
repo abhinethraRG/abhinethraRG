@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinethra
 - 👀 I’m interested in Python, R and SQL coding.
-- 🌱 I’m currently a graduate student of Business Analytics at SMU, Halifax.
+- 🌱 I’m a Business Analytics graduate student at SMU, Halifax.
 - 📫 How to reach me: abhinethra01998@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am multilingual in both computer and human languages. 
