@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Abhinethra
-- 👀 I’m interested in Python, R and SQL coding.
-- 🌱 I’m a Business Analytics graduate student of SMU, Halifax.
-- 📫 How to reach me: abhinethra01998@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am multilingual in both computer and human languages. 
+Hi! I’m Abhinethra (she/her). 
+I’m interested in Python, R and SQL coding. 
+I’m a Business Analytics graduate student of SMU, Halifax.
+Fun fact: I am multilingual in both computer and human languages. 
+
+Reach me @ abhinethra01998@gmail.com
 
 <!---
 abhinethraRG/abhinethraRG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
