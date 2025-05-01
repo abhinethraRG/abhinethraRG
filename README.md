@@ -1,6 +1,6 @@
-Hi! I’m Abhinethra (she/her). 
-I’m interested in Python, R and SQL coding. 
-I’m a Business Analytics graduate student of SMU, Halifax.
+Hi! I’m Abhinethra (she/her).
+Data Engineering & Machine Learning enthusiast.
+Love Python and SQL coding. 
 Fun fact: I am multilingual in both computer and human languages. 
 
 Reach me @ 
