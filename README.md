@@ -1,5 +1,5 @@
-Hi! I’m Abhinethra (she/her).
-Data Engineering & Machine Learning enthusiast.
+Hi! I’m Abhinethra (she/her). 
+Data Engineering & Machine Learning enthusiast. 
 Love Python and SQL coding. 
 Fun fact: I am multilingual in both computer and human languages. 
 
